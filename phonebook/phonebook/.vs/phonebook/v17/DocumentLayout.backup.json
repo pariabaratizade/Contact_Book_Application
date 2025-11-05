@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\phonebook\\phonebook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB360D30-6D95-47DE-B879-934CFBF3FB52}|phonebook\\phonebook.csproj|C:\\Users\\User\\Downloads\\phonebook\\phonebook\\phonebook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB360D30-6D95-47DE-B879-934CFBF3FB52}|phonebook\\phonebook.csproj|solutionrelative:phonebook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB360D30-6D95-47DE-B879-934CFBF3FB52}|phonebook\\phonebook.csproj|c:\\users\\user\\downloads\\phonebook\\phonebook\\phonebook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB360D30-6D95-47DE-B879-934CFBF3FB52}|phonebook\\phonebook.csproj|solutionrelative:phonebook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB360D30-6D95-47DE-B879-934CFBF3FB52}|phonebook\\phonebook.csproj|C:\\Users\\User\\Downloads\\phonebook\\phonebook\\phonebook\\contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB360D30-6D95-47DE-B879-934CFBF3FB52}|phonebook\\phonebook.csproj|solutionrelative:phonebook\\contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "contacts.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\phonebook\\phonebook\\phonebook\\contacts.cs",
+              "RelativeDocumentMoniker": "phonebook\\contacts.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\phonebook\\phonebook\\phonebook\\contacts.cs",
+              "RelativeToolTip": "phonebook\\contacts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:57:11.746Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\phonebook\\phonebook\\phonebook\\Form1.cs",
+              "RelativeDocumentMoniker": "phonebook\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\phonebook\\phonebook\\phonebook\\Form1.cs",
+              "RelativeToolTip": "phonebook\\Form1.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAawDsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:37:08.175Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\phonebook\\phonebook\\phonebook\\Form1.cs",
+              "RelativeDocumentMoniker": "phonebook\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\phonebook\\phonebook\\phonebook\\Form1.cs [Design]",
+              "RelativeToolTip": "phonebook\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:36:24.711Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

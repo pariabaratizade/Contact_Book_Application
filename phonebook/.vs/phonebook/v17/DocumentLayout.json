@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\proj1\\Phonebook1\\phonebook\\phonebook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB360D30-6D95-47DE-B879-934CFBF3FB52}|phonebook\\phonebook.csproj|D:\\proj1\\Phonebook1\\phonebook\\phonebook\\phonebook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB360D30-6D95-47DE-B879-934CFBF3FB52}|phonebook\\phonebook.csproj|solutionrelative:phonebook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB360D30-6D95-47DE-B879-934CFBF3FB52}|phonebook\\phonebook.csproj|d:\\proj1\\phonebook1\\phonebook\\phonebook\\phonebook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB360D30-6D95-47DE-B879-934CFBF3FB52}|phonebook\\phonebook.csproj|solutionrelative:phonebook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB360D30-6D95-47DE-B879-934CFBF3FB52}|phonebook\\phonebook.csproj|D:\\proj1\\Phonebook1\\phonebook\\phonebook\\phonebook\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB360D30-6D95-47DE-B879-934CFBF3FB52}|phonebook\\phonebook.csproj|solutionrelative:phonebook\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB360D30-6D95-47DE-B879-934CFBF3FB52}|phonebook\\phonebook.csproj|D:\\proj1\\Phonebook1\\phonebook\\phonebook\\phonebook\\contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB360D30-6D95-47DE-B879-934CFBF3FB52}|phonebook\\phonebook.csproj|solutionrelative:phonebook\\contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "contacts.cs",
+              "DocumentMoniker": "D:\\proj1\\Phonebook1\\phonebook\\phonebook\\phonebook\\contacts.cs",
+              "RelativeDocumentMoniker": "phonebook\\contacts.cs",
+              "ToolTip": "D:\\proj1\\Phonebook1\\phonebook\\phonebook\\phonebook\\contacts.cs",
+              "RelativeToolTip": "phonebook\\contacts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:57:11.746Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\proj1\\Phonebook1\\phonebook\\phonebook\\phonebook\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "phonebook\\Form1.Designer.cs",
+              "ToolTip": "D:\\proj1\\Phonebook1\\phonebook\\phonebook\\phonebook\\Form1.Designer.cs",
+              "RelativeToolTip": "phonebook\\Form1.Designer.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAArwKIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T15:48:54.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\proj1\\Phonebook1\\phonebook\\phonebook\\phonebook\\Form1.cs",
+              "RelativeDocumentMoniker": "phonebook\\Form1.cs",
+              "ToolTip": "D:\\proj1\\Phonebook1\\phonebook\\phonebook\\phonebook\\Form1.cs",
+              "RelativeToolTip": "phonebook\\Form1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwD0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:37:08.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\proj1\\Phonebook1\\phonebook\\phonebook\\phonebook\\Form1.cs",
+              "RelativeDocumentMoniker": "phonebook\\Form1.cs",
+              "ToolTip": "D:\\proj1\\Phonebook1\\phonebook\\phonebook\\phonebook\\Form1.cs [Design]",
+              "RelativeToolTip": "phonebook\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:36:24.711Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
